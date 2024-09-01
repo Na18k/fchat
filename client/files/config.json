@@ -1,0 +1,13 @@
+{
+    "lang": "pt-br",
+    "port_system": 1223,
+    "servers": [
+        "localhost"
+    ],
+    "contacts": [
+        {
+            "id": "",
+            "name": ""
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pt-br": {
+        "system_name": "Sistema",
+        "connect": "Conexão com o Server estabelecida!",
+        "file_not_found": "File not found",
+
+
+
+
+
+        "help_command_info": "Caso precise de ajuda utilize /help",
+        "help": {
+            "info": "Para usar o /Help"
+        }
+
+
+
+
+    }
+}
