@@ -2,7 +2,9 @@
     "lang": "pt-br",
     "port_system": 1223,
     "servers": [
-        "localhost"
+        "localhost",
+        "127.246.24.4",
+        "198.399.39.1"
     ],
     "contacts": [
         {

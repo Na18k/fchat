@@ -2,19 +2,63 @@
     "pt-br": {
         "system_name": "Sistema",
         "connect": "Conexão com o Server estabelecida!",
-        "file_not_found": "File not found",
-
-
-
-
-
+        "file_not_found": "Arquivo não encontrado!",
+        "no_server_connected": "Nenhum server conectado!",
+        "not_connected": "Não conectado!",
+        "trying_to_connect": "Tentando se conectar",
+        "login_account": "Entre em sua conta!",
+        "user": "Usuário",
+        "user_token": "User Token",
+        "id": "ID",
+        "password": "Senha:",
+        "do_you_have_an_account": "Você tem uma conta?",
+        "to_create_an_account_use": "para criar uma conta use",
+        "login_success": "Sucesso ao fazer login",
+        "login_failed": "Falha ao fazer login! Verifique dados!",
         "help_command_info": "Caso precise de ajuda utilize /help",
+        "welcome": "Bem-vindo ao sistema!",
+        "private_chat": "Chat privado",
+        "global_chat": "Chat global",
+        "msgbox": "Caixa de mensagens",
+        "pay": "Pagamento",
+        "topay": "Para enviar coins use /topay <conta>",
         "help": {
             "info": "Para usar o /Help"
-        }
-
-
-
-
+        },
+        "id_display": "Seu ID de usuário (guarde com segurança):",
+        "waiting_for_copy": "Pressione <Enter> após copiar seu ID...",
+        "failed_login": "Falha ao fazer login ou registrar. Saindo...",
+        "connected_as": "Conectado como"
+    },
+    "en": {
+        "system_name": "System",
+        "connect": "Connection with the server established!",
+        "file_not_found": "File not found!",
+        "no_server_connected": "No server connected!",
+        "not_connected": "Not connected!",
+        "trying_to_connect": "Trying to connect",
+        "login_account": "Log in to your account!",
+        "user": "User",
+        "user_token": "User Token",
+        "id": "ID",
+        "password": "Password:",
+        "do_you_have_an_account": "Do you have an account?",
+        "to_create_an_account_use": "to create an account use",
+        "login_success": "Login successful",
+        "login_failed": "Login failed! Check your details!",
+        "help_command_info": "If you need help, use /help",
+        "welcome": "Welcome to the system!",
+        "private_chat": "Private chat",
+        "global_chat": "Global chat",
+        "msgbox": "Message box",
+        "pay": "Payment",
+        "topay": "To send coins use /topay <account>",
+        "help": {
+            "info": "To use /Help"
+        },
+        "id_display": "Your user ID (keep it safe):",
+        "waiting_for_copy": "Press <Enter> after copying your ID...",
+        "failed_login": "Failed to login or register. Exiting...",
+        "connected_as": "Connected as"
     }
 }
